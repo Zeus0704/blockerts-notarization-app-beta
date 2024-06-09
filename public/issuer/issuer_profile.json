@@ -1,0 +1,24 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/blockcerts/v3"
+  ],
+  "id": "did:ethr:0xE242Ef0ab9673eEFf9D73aa26B0fdf3AE7ba80e1",
+  "type": "Issuer",
+  "name": "High School",
+  "url": "https://organization.com",
+  "email": "julian.santiago0521@gmail.com",
+  "publicKey": {
+    "id": "did:ethr:0xE242Ef0ab9673eEFf9D73aa26B0fdf3AE7ba80e1#keys-1",
+    "created": "2024-06-04T03:38:21.886Z",
+    "revoked": null,
+    "type": "EcdsaSecp256k1Verificationkey2019",
+    "controller": "did:ethr:0xE242Ef0ab9673eEFf9D73aa26B0fdf3AE7ba80e1",
+    "publicKeyJwk": {
+      "kty": "EC",
+      "crv": "secp256k1",
+      "x": "ECXzFFZoMTkLJSdJhY0-z1X4ypVZJMC9ZLxyv4bPFik",
+      "y": "Z2wa3tVRSwM1-IewaZfi9I_4vNrQ_p0Q4Ijg_leD-rg"
+    }
+  }
+}
